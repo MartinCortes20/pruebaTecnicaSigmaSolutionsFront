@@ -11,7 +11,7 @@ Consiste en una aplicación web con funcionalidades de búsqueda, paginación y 
 
 1. Clona el repositorio:
 
-git clone 
+git clone https://github.com/MartinCortes20/pruebaTecnicaSigmaSolutionsFront
 
 2. Instalar dependencias con 
 
